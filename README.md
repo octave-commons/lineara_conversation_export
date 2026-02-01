@@ -24,4 +24,4 @@ This archive captures the design/spec content produced in this conversation (Jan
 
 - [promethean-agent-system](https://github.com/octave-commons/promethean-agent-system) — agent runtime and tool registry that can consume Lineara contracts.
 - [ollama-benchmarks](https://github.com/riatzukiza/ollama-benchmarks) — benchmark source data that informs agent policy and evaluation.
-- [promethean-discord-io-bridge](https://github.com/octave-commons/promethean-discord-io-bridge) — Discord IO bridge that can adopt Lineara run lifecycle + events model.
+- [cephalon-clj](https://github.com/octave-commons/cephalon-clj) — Discord IO bridge that can adopt Lineara run lifecycle + events model.
