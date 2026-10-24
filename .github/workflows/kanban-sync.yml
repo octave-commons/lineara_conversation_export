@@ -5,8 +5,8 @@ on:
     branches: [main]
     paths:
       - 'kanban/**'
-  schedule:
-    - cron: "0 */6 * * *"
+  # Scheduled sync is paused: this archive has no kanban board.
+  # Before restoring it, supply eta-mu-ref and pin the matching shared workflow.
   workflow_dispatch:
     inputs:
       dry_run:
